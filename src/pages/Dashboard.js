@@ -7,7 +7,7 @@ import { connect } from 'react-redux';
 import * as userAction from '../actions/userAction';
 
 import Order from '../components/Order';
-import Navbar from '../components/Navbar';
+import Navbar from '../components/Navbars';
 
 class Dashboard extends Component {
   constructor(props){
@@ -53,7 +53,7 @@ class Dashboard extends Component {
 
   render () {
     return (
-      <div className="hero is-fullheight">
+      <div className="is-fullheight mt-5">
         <div className="hero-head">
           <Navbar/>
         </div>

@@ -6,7 +6,9 @@ import configureStore from './store/configureStore';
 import * as serviceWorker from './serviceWorker';
 
 // import stylesheets
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/css/custom.css';
+import "./assets/scss/paper-kit.scss";
 
 const store = configureStore();
 

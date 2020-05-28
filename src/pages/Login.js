@@ -6,7 +6,7 @@ import { connect } from 'react-redux';
 
 import * as userAction from '../actions/userAction';
 
-import Navbar from '../components/Navbar';
+import Navbar from '../components/Navbars';
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 class Login extends Component {

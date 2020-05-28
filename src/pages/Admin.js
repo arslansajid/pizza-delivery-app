@@ -7,7 +7,7 @@ import { connect } from 'react-redux';
 import * as orderAction from '../actions/orderAction';
 
 import Order from '../components/Order';
-import Navbar from '../components/Navbar';
+import Navbar from '../components/Navbars';
 
 import no_data from '../assets/images/no-data.svg';
 import { toast } from 'react-toastify';
