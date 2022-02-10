@@ -13,7 +13,7 @@
     "connected-react-router": "^6.5.2",
     "express": "^4.17.1",
     "history": "^4.9.0",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "path": "^0.12.7",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
